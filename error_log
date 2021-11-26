@@ -1,0 +1,31 @@
+[20-May-2021 15:46:23 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 149
+[20-May-2021 15:46:56 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 662
+[20-May-2021 15:48:56 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 1458
+[20-May-2021 15:52:48 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 894
+[20-May-2021 15:53:13 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasTimestamps.php on line 127
+[25-May-2021 13:44:05 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 897
+[25-May-2021 13:45:40 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 1458
+[25-May-2021 14:04:08 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 170
+[25-May-2021 18:16:13 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 461
+[25-May-2021 18:19:24 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 1034
+[25-May-2021 18:35:43 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 354
+[25-May-2021 19:23:40 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1408
+[25-May-2021 19:26:17 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 1034
+[26-May-2021 11:18:48 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 984
+[26-May-2021 14:43:48 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 144
+[27-May-2021 07:19:42 UTC] PHP Warning:  include(/home/digishop7/public_html/35/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/digishop7/public_html/35/vendor/composer/ClassLoader.php on line 444
+[27-May-2021 07:19:42 UTC] PHP Warning:  include(): Failed opening '/home/digishop7/public_html/35/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/digishop7/public_html/35/vendor/composer/ClassLoader.php on line 444
+[27-May-2021 07:19:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illuminate\Container\{clo in /home/digishop7/public_html/35/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[17-Jun-2021 04:18:05 UTC] PHP Parse error:  syntax error, unexpected 'are' (T_STRING) in /home/digishop7/public_html/35/index.php on line 2
+[16-Jun-2021 23:51:19 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/sylhetibazaronli/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[16-Jun-2021 23:51:20 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/sylhetibazaronli/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[16-Jun-2021 23:52:23 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/sylhetibazaronli/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[16-Jun-2021 23:52:24 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/sylhetibazaronli/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[16-Jun-2021 23:53:01 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/sylhetibazaronli/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23
+[16-Jun-2021 23:53:01 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home2/sylhetibazaronli/public_html/vendor/symfony/polyfill-php80/bootstrap.php on line 23

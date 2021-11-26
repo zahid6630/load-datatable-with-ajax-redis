@@ -1,0 +1,7 @@
+1. user_id 1 theke pic upload dile hoy na...
+2. invoice a rate e buy price ase ota sell price hobe
+3. Mandatory Field Gulo Star mark hobe
+4. customer due report and supplier due report e total ta if condition er vetore hobe (due > 0)
+5. stock report sort bhy name
+6. purchase value
+7. Stack er besi sells theke submit korle submit nibe na
